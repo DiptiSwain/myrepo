@@ -1,0 +1,27 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "properties": {
+  "displayName": "Kubernetes cluster pod security baseline standards for Linux-based workloads",
+  "policyDefinitionId": "/providers/Microsoft.Authorization/policySetDefinitions/a8640138-9b0a-4a28-b8cb-1666c838647d",
+  "scope": "/subscriptions/50b65be6-d343-4482-b37d-f9a7e70c81ab",
+  "notScopes": [
+   "/subscriptions/50b65be6-d343-4482-b37d-f9a7e70c81ab/resourceGroups/databricks-test-1"
+  ],
+  "parameters": {},
+  "metadata": {
+   "assignedBy": "Dipti Swain",
+   "parameterScopes": {},
+   "createdBy": "c274c5f2-d7b8-4aba-b2d0-1ee6d56f1eea",
+   "createdOn": "2021-08-26T13:52:20.9958284Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/50b65be6-d343-4482-b37d-f9a7e70c81ab/providers/Microsoft.Authorization/policyAssignments/8ac762500afd494d8de8c100",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "8ac762500afd494d8de8c100"
+}
